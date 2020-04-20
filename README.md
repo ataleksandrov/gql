@@ -1,1 +1,1 @@
-# gql
+# GraphQL sample application
